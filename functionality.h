@@ -1,0 +1,4 @@
+
+REGISTER_ENUM(name)
+REGISTER_ENUM(dice)
+REGISTER_ENUM(quit)

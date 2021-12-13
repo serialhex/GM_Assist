@@ -1,0 +1,10 @@
+.vs/
+*.exe
+*.ilk
+*.obj
+*.pdb
+
+# tab separated values
+*.tsv
+*.tzv
+

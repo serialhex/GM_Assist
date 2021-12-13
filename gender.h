@@ -1,0 +1,6 @@
+
+REGISTER_ENUM(male)
+REGISTER_ENUM(female)
+REGISTER_ENUM(either)
+REGISTER_ENUM(unknown)
+
